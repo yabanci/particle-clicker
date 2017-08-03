@@ -22,7 +22,7 @@ var GameObjects = (function() {
     GameObject.apply(this, [{
                              key : 'lab',
                              state : {
-                               name : 'Give your lab an awesome name!',
+                               name : 'Give your company an awesome name!',
                                detector : 1,
                                factor : 5,
                                data : 0,

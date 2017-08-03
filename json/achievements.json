@@ -1,6 +1,6 @@
 [
   {
-    "description": "CP violation discovery!",
+    "description": "Office space!",
     "icon": "fa-cogs",
     "key": "achievement-research-cpv-1",
     "threshold": 1,
@@ -8,7 +8,7 @@
     "targetProperty": "level"
   },
   {
-    "description": "J/\u03c8 discovery!",
+    "description": "Campaigns!",
     "icon": "fa-cogs",
     "key": "achievement-research-jpsi-1",
     "threshold": 1,
@@ -16,7 +16,7 @@
     "targetProperty": "level"
   },
   {
-    "description": "\u03c4 lepton discovery!",
+    "description": "RAF submission!",
     "icon": "fa-cogs",
     "key": "achievement-research-tau-1",
     "threshold": 1,
@@ -24,7 +24,7 @@
     "targetProperty": "level"
   },
   {
-    "description": "Beauty quark discovery!",
+    "description": "HEDIS submission!",
     "icon": "fa-cogs",
     "key": "achievement-research-beauty-1",
     "threshold": 1,
@@ -32,7 +32,7 @@
     "targetProperty": "level"
   },
   {
-    "description": "Gluons discovery!",
+    "description": "VC funding received!",
     "icon": "fa-cogs",
     "key": "achievement-research-gluons-1",
     "threshold": 1,
@@ -40,7 +40,7 @@
     "targetProperty": "level"
   },
   {
-    "description": "W and Z boson discovery!",
+    "description": "Expansion into new counties",
     "icon": "fa-cogs",
     "key": "achievement-research-weak-1",
     "threshold": 1,
@@ -48,7 +48,7 @@
     "targetProperty": "level"
   },
   {
-    "description": "Top quark discovery!",
+    "description": "Improvements in MER",
     "icon": "fa-cogs",
     "key": "achievement-research-top-1",
     "threshold": 1,
@@ -56,7 +56,7 @@
     "targetProperty": "level"
   },
   {
-    "description": "B oscillation discovery!",
+    "description": "Public funds are flowing!",
     "icon": "fa-cogs",
     "key": "achievement-research-boscillations-1",
     "threshold": 1,
@@ -64,7 +64,7 @@
     "targetProperty": "level"
   },
   {
-    "description": "Higgs boson discovery!",
+    "description": "Increased market share",
     "icon": "fa-cogs",
     "key": "achievement-research-higgs-1",
     "threshold": 1,
@@ -72,7 +72,7 @@
     "targetProperty": "level"
   },
   {
-    "description": "D*s\u207b discovery!",
+    "description": "More people in MA plans",
     "icon": "fa-cogs",
     "key": "achievement-research-dstars-1",
     "threshold": 1,
@@ -88,7 +88,7 @@
     "targetProperty": "level"
   },
   {
-    "description": "CP violation research level 5!",
+    "description": "Bigger office space!",
     "icon": "fa-cogs",
     "key": "achievement-research-cpv-5",
     "targetProperty": "level",
@@ -96,7 +96,7 @@
     "threshold": 5
   },
   {
-    "description": "CP violation research level 25!",
+    "description": "Bigger office space!",
     "icon": "fa-cogs",
     "key": "achievement-research-cpv-25",
     "targetProperty": "level",
@@ -104,7 +104,7 @@
     "threshold": 25
   },
   {
-    "description": "CP violation research level 50!",
+    "description": "Bigger office space!",
     "icon": "fa-cogs",
     "key": "achievement-research-cpv-50",
     "targetProperty": "level",
@@ -112,7 +112,7 @@
     "threshold": 50
   },
   {
-    "description": "CP violation research level 100!",
+    "description": "Bigger office space!",
     "icon": "fa-cogs",
     "key": "achievement-research-cpv-100",
     "targetProperty": "level",
@@ -120,7 +120,7 @@
     "threshold": 100
   },
   {
-    "description": "J/\u03c8 research level 5!",
+    "description": "More campaigns!",
     "icon": "fa-cogs",
     "key": "achievement-research-jpsi-5",
     "targetProperty": "level",
@@ -128,7 +128,7 @@
     "threshold": 5
   },
   {
-    "description": "J/\u03c8 research level 25!",
+    "description": "More campaigns!",
     "icon": "fa-cogs",
     "key": "achievement-research-jpsi-25",
     "targetProperty": "level",
@@ -136,7 +136,7 @@
     "threshold": 25
   },
   {
-    "description": "J/\u03c8 research level 50!",
+    "description": "More campaigns!",
     "icon": "fa-cogs",
     "key": "achievement-research-jpsi-50",
     "targetProperty": "level",
@@ -144,7 +144,7 @@
     "threshold": 50
   },
   {
-    "description": "J/\u03c8 research level 100!",
+    "description": "More campaigns!",
     "icon": "fa-cogs",
     "key": "achievement-research-jpsi-100",
     "targetProperty": "level",
@@ -152,7 +152,7 @@
     "threshold": 100
   },
   {
-    "description": "\u03c4 lepton research level 5!",
+    "description": "RAPS submission!",
     "icon": "fa-cogs",
     "key": "achievement-research-tau-5",
     "targetProperty": "level",
@@ -160,7 +160,7 @@
     "threshold": 5
   },
   {
-    "description": "\u03c4 lepton research level 25!",
+    "description": "EDS submission!",
     "icon": "fa-cogs",
     "key": "achievement-research-tau-25",
     "targetProperty": "level",
@@ -168,7 +168,7 @@
     "threshold": 25
   },
   {
-    "description": "\u03c4 lepton research level 50!",
+    "description": "Complete EDS transition!",
     "icon": "fa-cogs",
     "key": "achievement-research-tau-50",
     "targetProperty": "level",
@@ -176,7 +176,7 @@
     "threshold": 50
   },
   {
-    "description": "\u03c4 lepton research level 100!",
+    "description": "No errors in EDS submissions!",
     "icon": "fa-cogs",
     "key": "achievement-research-tau-100",
     "targetProperty": "level",
@@ -184,7 +184,7 @@
     "threshold": 100
   },
   {
-    "description": "Beauty quark research level 5!",
+    "description": "3.5 stars!",
     "icon": "fa-cogs",
     "key": "achievement-research-beauty-5",
     "targetProperty": "level",
@@ -192,7 +192,7 @@
     "threshold": 5
   },
   {
-    "description": "Beauty quark research level 25!",
+    "description": "4 stars!",
     "icon": "fa-cogs",
     "key": "achievement-research-beauty-25",
     "targetProperty": "level",
@@ -200,7 +200,7 @@
     "threshold": 25
   },
   {
-    "description": "Beauty quark research level 50!",
+    "description": "4.5 stars!",
     "icon": "fa-cogs",
     "key": "achievement-research-beauty-50",
     "targetProperty": "level",
@@ -208,7 +208,7 @@
     "threshold": 50
   },
   {
-    "description": "Beauty quark research level 100!",
+    "description": "5 stars!",
     "icon": "fa-cogs",
     "key": "achievement-research-beauty-100",
     "targetProperty": "level",
@@ -216,7 +216,7 @@
     "threshold": 100
   },
   {
-    "description": "Gluons research level 5!",
+    "description": "$50M raised!",
     "icon": "fa-cogs",
     "key": "achievement-research-gluons-5",
     "targetProperty": "level",
@@ -224,7 +224,7 @@
     "threshold": 5
   },
   {
-    "description": "Gluons research level 25!",
+    "description": "$250M raised!",
     "icon": "fa-cogs",
     "key": "achievement-research-gluons-25",
     "targetProperty": "level",
@@ -232,7 +232,7 @@
     "threshold": 25
   },
   {
-    "description": "Gluons research level 50!",
+    "description": "$500M raised!",
     "icon": "fa-cogs",
     "key": "achievement-research-gluons-50",
     "targetProperty": "level",
@@ -240,7 +240,7 @@
     "threshold": 50
   },
   {
-    "description": "Gluons research level 100!",
+    "description": "$1B raised!",
     "icon": "fa-cogs",
     "key": "achievement-research-gluons-100",
     "targetProperty": "level",

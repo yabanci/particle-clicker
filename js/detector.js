@@ -20,7 +20,7 @@ var detector =
 
     ratio: 1,
 
-    colors: 
+    colors:
     {
         siliconRing: '#FFF371',
         siliconRingLine: '#EAC918',
@@ -68,7 +68,7 @@ var detector =
             name: 'jet',
             color: '#0B7700'
         },
-        
+
         {
             name: 'muon',
             color: '#775400'
@@ -152,7 +152,7 @@ var detector =
         for (var k = 3; k >= 1; k--) {
             ctx.strokeStyle = detector.colors.mucalDarkLine;
             ctx.fillStyle = detector.colors.mucalDark;
-            
+
             ctx.beginPath();
             ctx.moveTo(cx + (detector.radius.mucal + k * detector.radius.mucalLight + k * detector.radius.mucalDark) * Math.cos(Math.PI * muSplit) * detector.ratio, cy + (detector.radius.mucal + k * detector.radius.mucalLight + k * detector.radius.mucalDark) * Math.sin(Math.PI * muSplit) * detector.ratio);
             for (var i = 1; i <= 13; i++) {
@@ -309,11 +309,11 @@ var detector =
 };
 
 window.requestAnimFrame = (function(){
-    return window.requestAnimationFrame       || 
-           window.webkitRequestAnimationFrame || 
-           window.mozRequestAnimationFrame    || 
-           window.oRequestAnimationFrame      || 
-           window.msRequestAnimationFrame     || 
+    return window.requestAnimationFrame       ||
+           window.webkitRequestAnimationFrame ||
+           window.mozRequestAnimationFrame    ||
+           window.oRequestAnimationFrame      ||
+           window.msRequestAnimationFrame     ||
            function(/* function */ callback, /* DOMElement */ element){
                window.setTimeout(callback, 1000 / 60);
            };
