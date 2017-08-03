@@ -80,7 +80,7 @@
     "targetProperty": "level"
   },
   {
-    "description": "\u039eb'- and \u039eb*- discovery!",
+    "description": "Machine learning breakthough!",
     "icon": "fa-cogs",
     "key": "achievement-research-xib-1",
     "threshold": 1,
@@ -248,7 +248,7 @@
     "threshold": 100
   },
   {
-    "description": "W and Z boson research level 5!",
+    "description": "Whole of NJ covered!",
     "icon": "fa-cogs",
     "key": "achievement-research-weak-5",
     "targetProperty": "level",
@@ -256,7 +256,7 @@
     "threshold": 5
   },
   {
-    "description": "W and Z boson research level 25!",
+    "description": "Expansion into all New England!",
     "icon": "fa-cogs",
     "key": "achievement-research-weak-25",
     "targetProperty": "level",
@@ -264,7 +264,7 @@
     "threshold": 25
   },
   {
-    "description": "W and Z boson research level 50!",
+    "description": "All of East Coast and California is covered!",
     "icon": "fa-cogs",
     "key": "achievement-research-weak-50",
     "targetProperty": "level",
@@ -272,7 +272,7 @@
     "threshold": 50
   },
   {
-    "description": "W and Z boson research level 100!",
+    "description": "Expansion into all 50 states!",
     "icon": "fa-cogs",
     "key": "achievement-research-weak-100",
     "targetProperty": "level",
@@ -280,7 +280,7 @@
     "threshold": 100
   },
   {
-    "description": "Top quark research level 5!",
+    "description": "90% MER!",
     "icon": "fa-cogs",
     "key": "achievement-research-top-5",
     "targetProperty": "level",
@@ -288,7 +288,7 @@
     "threshold": 5
   },
   {
-    "description": "Top quark research level 25!",
+    "description": "85% MER",
     "icon": "fa-cogs",
     "key": "achievement-research-top-25",
     "targetProperty": "level",
@@ -296,7 +296,7 @@
     "threshold": 25
   },
   {
-    "description": "Top quark research level 50!",
+    "description": "80% MER!",
     "icon": "fa-cogs",
     "key": "achievement-research-top-50",
     "targetProperty": "level",
@@ -304,7 +304,7 @@
     "threshold": 50
   },
   {
-    "description": "Top quark research level 100!",
+    "description": "75% MER!",
     "icon": "fa-cogs",
     "key": "achievement-research-top-100",
     "targetProperty": "level",
@@ -312,7 +312,7 @@
     "threshold": 100
   },
   {
-    "description": "B oscillation research level 5!",
+    "description": "Shares are $5!",
     "icon": "fa-cogs",
     "key": "achievement-research-boscillations-5",
     "targetProperty": "level",
@@ -320,7 +320,7 @@
     "threshold": 5
   },
   {
-    "description": "B oscillation research level 25!",
+    "description": "Shares are $25!",
     "icon": "fa-cogs",
     "key": "achievement-research-boscillations-25",
     "targetProperty": "level",
@@ -328,7 +328,7 @@
     "threshold": 25
   },
   {
-    "description": "B oscillation research level 50!",
+    "description": "Shares are $50!",
     "icon": "fa-cogs",
     "key": "achievement-research-boscillations-50",
     "targetProperty": "level",
@@ -336,7 +336,7 @@
     "threshold": 50
   },
   {
-    "description": "B oscillation research level 100!",
+    "description": "Shares are $100!",
     "icon": "fa-cogs",
     "key": "achievement-research-boscillations-100",
     "targetProperty": "level",
@@ -344,7 +344,7 @@
     "threshold": 100
   },
   {
-    "description": "Higgs boson research level 5!",
+    "description": "Market share is 5%!",
     "icon": "fa-cogs",
     "key": "achievement-research-higgs-5",
     "targetProperty": "level",
@@ -352,7 +352,7 @@
     "threshold": 5
   },
   {
-    "description": "Higgs boson research level 25!",
+    "description": "Market share is 10%!",
     "icon": "fa-cogs",
     "key": "achievement-research-higgs-25",
     "targetProperty": "level",
@@ -360,7 +360,7 @@
     "threshold": 25
   },
   {
-    "description": "Higgs boson research level 50!",
+    "description": "Market share is 25%!",
     "icon": "fa-cogs",
     "key": "achievement-research-higgs-50",
     "targetProperty": "level",
@@ -368,7 +368,7 @@
     "threshold": 50
   },
   {
-    "description": "Higgs boson research level 100!",
+    "description": "Market share is 50%!",
     "icon": "fa-cogs",
     "key": "achievement-research-higgs-100",
     "targetProperty": "level",
@@ -376,7 +376,7 @@
     "threshold": 100
   },
   {
-    "description": "D*s\u207b research level 5!",
+    "description": "Medicare age limit is down to 60!",
     "icon": "fa-cogs",
     "key": "achievement-research-dstars-5",
     "targetProperty": "level",
@@ -384,7 +384,7 @@
     "threshold": 5
   },
   {
-    "description": "D*s\u207b research level 25!",
+    "description": "Medicare age limit is down to 55!",
     "icon": "fa-cogs",
     "key": "achievement-research-dstars-25",
     "targetProperty": "level",
@@ -392,7 +392,7 @@
     "threshold": 25
   },
   {
-    "description": "D*s\u207b research level 50!",
+    "description": "Medicare age limit is down to 45!",
     "icon": "fa-cogs",
     "key": "achievement-research-dstars-50",
     "targetProperty": "level",
@@ -400,7 +400,7 @@
     "threshold": 50
   },
   {
-    "description": "D*s\u207b research level 100!",
+    "description": "Medicare expanded to everyone!",
     "icon": "fa-cogs",
     "key": "achievement-research-dstars-100",
     "targetProperty": "level",
@@ -408,7 +408,7 @@
     "threshold": 100
   },
   {
-    "description": "\u039eb'- and \u039eb*- research level 5!",
+    "description": "Machine learning breakthough!",
     "icon": "fa-cogs",
     "key": "achievement-research-xib-5",
     "targetProperty": "level",
@@ -416,7 +416,7 @@
     "threshold": 5
   },
   {
-    "description": "\u039eb'- and \u039eb*- research level 25!",
+    "description": "Machine learning breakthough!",
     "icon": "fa-cogs",
     "key": "achievement-research-xib-25",
     "targetProperty": "level",
@@ -424,7 +424,7 @@
     "threshold": 25
   },
   {
-    "description": "\u039eb'- and \u039eb*- research level 50!",
+    "description": "Machine learning breakthough!",
     "icon": "fa-cogs",
     "key": "achievement-research-xib-50",
     "targetProperty": "level",
@@ -432,7 +432,7 @@
     "threshold": 50
   },
   {
-    "description": "\u039eb'- and \u039eb*- research level 100!",
+    "description": "Machine learning breakthough!",
     "icon": "fa-cogs",
     "key": "achievement-research-xib-100",
     "targetProperty": "level",
@@ -440,7 +440,7 @@
     "threshold": 100
   },
   {
-    "description": "The first Master Students hired!",
+    "description": "The first employees hired!",
     "icon": "fa-user",
     "key": "achievement-workers-masterstudents-1",
     "threshold": 1,
@@ -448,7 +448,7 @@
     "targetProperty": "hired"
   },
   {
-    "description": "The first PhD Students hired!",
+    "description": "The first operations team members hired!",
     "icon": "fa-user",
     "key": "achievement-workers-phdstudents-1",
     "threshold": 1,
@@ -456,7 +456,7 @@
     "targetProperty": "hired"
   },
   {
-    "description": "The first Postdocs hired!",
+    "description": "The first date operations team members hired!",
     "icon": "fa-user",
     "key": "achievement-workers-postdocs-1",
     "threshold": 1,
@@ -464,7 +464,7 @@
     "targetProperty": "hired"
   },
   {
-    "description": "The first Research Fellows hired!",
+    "description": "The first UM experts hired!",
     "icon": "fa-user",
     "key": "achievement-workers-fellows-1",
     "threshold": 1,
@@ -472,7 +472,7 @@
     "targetProperty": "hired"
   },
   {
-    "description": "The first Permanent Staff hired!",
+    "description": "The first NPs hired!",
     "icon": "fa-user",
     "key": "achievement-workers-permanent-1",
     "threshold": 1,
@@ -480,7 +480,7 @@
     "targetProperty": "hired"
   },
   {
-    "description": "The first Tenured Professors hired!",
+    "description": "The first data scientists hired!",
     "icon": "fa-user",
     "key": "achievement-workers-profs-1",
     "threshold": 1,
@@ -488,7 +488,7 @@
     "targetProperty": "hired"
   },
   {
-    "description": "The first Nobel Laureates hired!",
+    "description": "The first engineers hired!",
     "icon": "fa-user",
     "key": "achievement-workers-nobel-1",
     "threshold": 1,
@@ -496,7 +496,7 @@
     "targetProperty": "hired"
   },
   {
-    "description": "The first Summer Students hired!",
+    "description": "The first customer experience team members hired!",
     "icon": "fa-user",
     "key": "achievement-workers-summies-1",
     "threshold": 1,
@@ -504,7 +504,7 @@
     "targetProperty": "hired"
   },
   {
-    "description": "5 Master Students working for you!",
+    "description": "Viverto and Kristo at level 5!",
     "icon": "fa-users",
     "key": "achievement-workers-masterstudents-5",
     "targetProperty": "hired",
@@ -512,7 +512,7 @@
     "threshold": 5
   },
   {
-    "description": "25 Master Students working for you!",
+    "description": "Viverto and Kristo at level 25!",
     "icon": "fa-users",
     "key": "achievement-workers-masterstudents-25",
     "targetProperty": "hired",
@@ -520,7 +520,7 @@
     "threshold": 25
   },
   {
-    "description": "50 Master Students working for you!",
+    "description": "Viverto and Kristo at level 50!",
     "icon": "fa-users",
     "key": "achievement-workers-masterstudents-50",
     "targetProperty": "hired",
@@ -528,7 +528,7 @@
     "threshold": 50
   },
   {
-    "description": "100 Master Students working for you!",
+    "description": "Viverto and Kristo at level 100!",
     "icon": "fa-users",
     "key": "achievement-workers-masterstudents-100",
     "targetProperty": "hired",
@@ -536,7 +536,7 @@
     "threshold": 100
   },
   {
-    "description": "5 PhD Students working for you!",
+    "description": "5 operations members working for you!",
     "icon": "fa-users",
     "key": "achievement-workers-phdstudents-5",
     "targetProperty": "hired",
@@ -544,7 +544,7 @@
     "threshold": 5
   },
   {
-    "description": "25 PhD Students working for you!",
+    "description": "25 operations members working for you!",
     "icon": "fa-users",
     "key": "achievement-workers-phdstudents-25",
     "targetProperty": "hired",
@@ -552,7 +552,7 @@
     "threshold": 25
   },
   {
-    "description": "50 PhD Students working for you!",
+    "description": "50 operations members working for you!",
     "icon": "fa-users",
     "key": "achievement-workers-phdstudents-50",
     "targetProperty": "hired",
@@ -560,7 +560,7 @@
     "threshold": 50
   },
   {
-    "description": "100 PhD Students working for you!",
+    "description": "100 operations members working for you!",
     "icon": "fa-users",
     "key": "achievement-workers-phdstudents-100",
     "targetProperty": "hired",
@@ -568,7 +568,7 @@
     "threshold": 100
   },
   {
-    "description": "5 Postdocs working for you!",
+    "description": "5 data operations members working for you!",
     "icon": "fa-users",
     "key": "achievement-workers-postdocs-5",
     "targetProperty": "hired",
@@ -576,7 +576,7 @@
     "threshold": 5
   },
   {
-    "description": "25 Postdocs working for you!",
+    "description": "25 data operations members working for you!",
     "icon": "fa-users",
     "key": "achievement-workers-postdocs-25",
     "targetProperty": "hired",
@@ -584,7 +584,7 @@
     "threshold": 25
   },
   {
-    "description": "50 Postdocs working for you!",
+    "description": "50 data operations members working for you!",
     "icon": "fa-users",
     "key": "achievement-workers-postdocs-50",
     "targetProperty": "hired",
@@ -592,7 +592,7 @@
     "threshold": 50
   },
   {
-    "description": "100 Postdocs working for you!",
+    "description": "100 data operations members working for you!",
     "icon": "fa-users",
     "key": "achievement-workers-postdocs-100",
     "targetProperty": "hired",
@@ -600,7 +600,7 @@
     "threshold": 100
   },
   {
-    "description": "5 Research Fellows working for you!",
+    "description": "5 UM members working for you!",
     "icon": "fa-users",
     "key": "achievement-workers-fellows-5",
     "targetProperty": "hired",
@@ -608,7 +608,7 @@
     "threshold": 5
   },
   {
-    "description": "25 Research Fellows working for you!",
+    "description": "25 UM members working for you!",
     "icon": "fa-users",
     "key": "achievement-workers-fellows-25",
     "targetProperty": "hired",
@@ -616,7 +616,7 @@
     "threshold": 25
   },
   {
-    "description": "50 Research Fellows working for you!",
+    "description": "50 UM members working for you!",
     "icon": "fa-users",
     "key": "achievement-workers-fellows-50",
     "targetProperty": "hired",
@@ -624,7 +624,7 @@
     "threshold": 50
   },
   {
-    "description": "100 Research Fellows working for you!",
+    "description": "100 UM members working for you!",
     "icon": "fa-users",
     "key": "achievement-workers-fellows-100",
     "targetProperty": "hired",
@@ -632,7 +632,7 @@
     "threshold": 100
   },
   {
-    "description": "5 Permanent Staff working for you!",
+    "description": "5 NPs working for you!",
     "icon": "fa-users",
     "key": "achievement-workers-permanent-5",
     "targetProperty": "hired",
@@ -640,7 +640,7 @@
     "threshold": 5
   },
   {
-    "description": "25 Permanent Staff working for you!",
+    "description": "25 NPs working for you!",
     "icon": "fa-users",
     "key": "achievement-workers-permanent-25",
     "targetProperty": "hired",
@@ -648,7 +648,7 @@
     "threshold": 25
   },
   {
-    "description": "50 Permanent Staff working for you!",
+    "description": "50 NPs working for you!",
     "icon": "fa-users",
     "key": "achievement-workers-permanent-50",
     "targetProperty": "hired",
@@ -656,7 +656,7 @@
     "threshold": 50
   },
   {
-    "description": "100 Permanent Staff working for you!",
+    "description": "100 NPs working for you!",
     "icon": "fa-users",
     "key": "achievement-workers-permanent-100",
     "targetProperty": "hired",
@@ -664,7 +664,7 @@
     "threshold": 100
   },
   {
-    "description": "5 Tenured Professors working for you!",
+    "description": "5 data scientists working for you!",
     "icon": "fa-users",
     "key": "achievement-workers-profs-5",
     "targetProperty": "hired",
@@ -672,7 +672,7 @@
     "threshold": 5
   },
   {
-    "description": "25 Tenured Professors working for you!",
+    "description": "25 data scientists working for you!",
     "icon": "fa-users",
     "key": "achievement-workers-profs-25",
     "targetProperty": "hired",
@@ -680,7 +680,7 @@
     "threshold": 25
   },
   {
-    "description": "50 Tenured Professors working for you!",
+    "description": "50 data scientists working for you!",
     "icon": "fa-users",
     "key": "achievement-workers-profs-50",
     "targetProperty": "hired",
@@ -688,7 +688,7 @@
     "threshold": 50
   },
   {
-    "description": "100 Tenured Professors working for you!",
+    "description": "100 data scientists working for you!",
     "icon": "fa-users",
     "key": "achievement-workers-profs-100",
     "targetProperty": "hired",
@@ -696,7 +696,7 @@
     "threshold": 100
   },
   {
-    "description": "5 Nobel Laureates working for you!",
+    "description": "5 engineers working for you!",
     "icon": "fa-users",
     "key": "achievement-workers-nobel-5",
     "targetProperty": "hired",
@@ -704,7 +704,7 @@
     "threshold": 5
   },
   {
-    "description": "25 Nobel Laureates working for you!",
+    "description": "25 engineers working for you!",
     "icon": "fa-users",
     "key": "achievement-workers-nobel-25",
     "targetProperty": "hired",
@@ -712,7 +712,7 @@
     "threshold": 25
   },
   {
-    "description": "50 Nobel Laureates working for you!",
+    "description": "50 engineers working for you!",
     "icon": "fa-users",
     "key": "achievement-workers-nobel-50",
     "targetProperty": "hired",
@@ -720,7 +720,7 @@
     "threshold": 50
   },
   {
-    "description": "100 Nobel Laureates working for you!",
+    "description": "100 engineers working for you!",
     "icon": "fa-users",
     "key": "achievement-workers-nobel-100",
     "targetProperty": "hired",
@@ -728,7 +728,7 @@
     "threshold": 100
   },
   {
-    "description": "5 Summer Students working for you!",
+    "description": "5 customer experience coordinators working for you!",
     "icon": "fa-users",
     "key": "achievement-workers-summies-5",
     "targetProperty": "hired",
@@ -736,7 +736,7 @@
     "threshold": 5
   },
   {
-    "description": "25 Summer Students working for you!",
+    "description": "25 customer experience coordinators working for you!",
     "icon": "fa-users",
     "key": "achievement-workers-summies-25",
     "targetProperty": "hired",
@@ -744,7 +744,7 @@
     "threshold": 25
   },
   {
-    "description": "50 Summer Students working for you!",
+    "description": "50 customer experience coordinators working for you!",
     "icon": "fa-users",
     "key": "achievement-workers-summies-50",
     "targetProperty": "hired",
@@ -752,7 +752,7 @@
     "threshold": 50
   },
   {
-    "description": "100 Summer Students working for you!",
+    "description": "100 customer experience coordinators working for you!",
     "icon": "fa-users",
     "key": "achievement-workers-summies-100",
     "targetProperty": "hired",
@@ -848,7 +848,7 @@
     "threshold": 10000000000
   },
   {
-    "description": "JTN 100 funding gathered!",
+    "description": "$100 funding gathered!",
     "icon": "fa-money",
     "key": "achievement-funding-collected-100",
     "targetProperty": "moneyCollected",
@@ -856,7 +856,7 @@
     "threshold": 100
   },
   {
-    "description": "JTN 10k funding gathered!",
+    "description": "$10K funding gathered!",
     "icon": "fa-money",
     "key": "achievement-funding-collected-10k",
     "targetProperty": "moneyCollected",
@@ -864,7 +864,7 @@
     "threshold": 10000
   },
   {
-    "description": "JTN 1M funding gathered!",
+    "description": "$1M funding gathered!",
     "icon": "fa-money",
     "key": "achievement-funding-collected-1M",
     "targetProperty": "moneyCollected",
@@ -872,7 +872,7 @@
     "threshold": 1000000
   },
   {
-    "description": "JTN 100M funding gathered!",
+    "description": "$100M funding gathered!",
     "icon": "fa-money",
     "key": "achievement-funding-collected-100M",
     "targetProperty": "moneyCollected",
@@ -880,7 +880,7 @@
     "threshold": 100000000
   },
   {
-    "description": "JTN 10G funding gathered!",
+    "description": "$10B funding gathered!",
     "icon": "fa-money",
     "key": "achievement-funding-collected-10G",
     "targetProperty": "moneyCollected",
@@ -928,7 +928,7 @@
     "threshold": 10000000000
   },
   {
-    "description": "JTN 100 funding spent!",
+    "description": "$100 funding spent!",
     "icon": "fa-money",
     "key": "achievement-funding-spent-100",
     "targetProperty": "moneySpent",
@@ -936,7 +936,7 @@
     "threshold": 100
   },
   {
-    "description": "JTN 10k funding spent!",
+    "description": "$10K funding spent!",
     "icon": "fa-money",
     "key": "achievement-funding-spent-10k",
     "targetProperty": "moneySpent",
@@ -944,7 +944,7 @@
     "threshold": 10000
   },
   {
-    "description": "JTN 1M funding spent!",
+    "description": "$1M funding spent!",
     "icon": "fa-money",
     "key": "achievement-funding-spent-1M",
     "targetProperty": "moneySpent",
@@ -952,7 +952,7 @@
     "threshold": 1000000
   },
   {
-    "description": "JTN 100M funding spent!",
+    "description": "$100M funding spent!",
     "icon": "fa-money",
     "key": "achievement-funding-spent-100M",
     "targetProperty": "moneySpent",
@@ -960,7 +960,7 @@
     "threshold": 100000000
   },
   {
-    "description": "JTN 10G funding spent!",
+    "description": "$10B funding spent!",
     "icon": "fa-money",
     "key": "achievement-funding-spent-10G",
     "targetProperty": "moneySpent",

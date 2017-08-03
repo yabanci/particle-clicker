@@ -106,7 +106,7 @@
   {
     "key": "research-higgs",
     "name": "Market domination",
-    "description": "Over 50% of the MA market is captured",
+    "description": "MA market share boost!",
     "cost_increase": 1.2,
     "image": "assets/icons/png/H.png",
     "info": "html/H.html",
@@ -118,8 +118,8 @@
   },
   {
     "key": "research-dstars",
-    "name": "Medicare expanded to everyone in the US",
-    "description": "The market is the whole country",
+    "name": "Medicare age limit has been lowered!",
+    "description": "The market is the whole country!",
     "cost_increase": 1.15,
     "image": "assets/icons/png/Dstar_s.png",
     "info": "html/Dstar_s.html",
@@ -131,8 +131,8 @@
   },
   {
     "key": "research-xib",
-    "name": "Ξb'- and Ξb*-",
-    "description": "Recently discovered strange beauty baryons. Both differ only in their spin configurations.",
+    "name": "All hospitalizations can be predicted 3 months in advance!",
+    "description": "Breakthrough in machine learning!",
     "cost_increase": 1.15,
     "image": "assets/icons/png/Xi_b.png",
     "info": "html/Xi_b.html",

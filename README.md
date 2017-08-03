@@ -1,7 +1,7 @@
-# Particle Clicker
+# Medicare Tycoon
 
-An addictive incremental game that teaches players the history of high energy particle physics.
+An addictive incremental game that teaches players about Medicare.
 
-Developed during the 2014 CERN Webfest over a weekend.
+Click [here](http://bit.ly/MedicareTycoon)to play the game.
 
-Visit [http://cern.ch/particle-clicker](http://cern.ch/particle-clicker) to play the game.
+Copied from the original particle clicker game at [http://cern.ch/particle-clicker](http://cern.ch/particle-clicker).

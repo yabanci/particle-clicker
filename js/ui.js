@@ -8,8 +8,8 @@ var UI = (function () {
    * Also introduce FastClick for faster clicking on mobile.
    */
   $(function() {
-    FastClick.attach(document.body);    
-    
+    FastClick.attach(document.body);
+
     var resize = function() {
       var h = $(window).height();
       var offset = 111;
@@ -66,7 +66,7 @@ var UI = (function () {
         }
       }
     }
-    
+
     $(window).resize(resize);
     resize();
   });
@@ -143,28 +143,13 @@ var UI = (function () {
   if (typeof $.cookie('cookielaw') === 'undefined') {
     var alert = '<div id="cookielaw" class="alert alert-info" role="alert">';
     alert += '<button type="button" class="btn btn-primary">OK</button>';
-    alert += '<i class="fa fa-info-circle alert-glyph"></i> <span class="alert-text">Particle Clicker uses local storage to store your current progress.</span>';
+    alert += '<i class="fa fa-info-circle alert-glyph"></i> <span class="alert-text">Medicare Tycoon uses local storage to store your current progress.</span>';
     alert += '</div>';
     alert = $(alert);
     alert.find('button').click(function ()
     {
       $.cookie('cookielaw', 'informed', { expires: 365 });
       $('#cookielaw').slideUp(300, function() { $('#cookielaw').remove(); });
-    })
-
-    $('#messages-container').append(alert);
-  }
-
-  if (typeof $.cookie('cern60') === 'undefined') {
-    var alert = '<div id="cern60" class="alert alert-info" role="alert">';
-    alert += '<button type="button" class="btn btn-primary">Close</button>';
-    alert += '<i class="fa fa-area-chart alert-glyph"></i> <span class="alert-text"><a class="alert-link" href="http://home.web.cern.ch/about/updates/2014/12/take-part-cern-60-public-computing-challenge" target="_blank">Join the CERN 60 computing challenge!</a></span>';
-    alert += '</div>';
-    alert = $(alert);
-    alert.find('button').click(function ()
-    {
-      $.cookie('cern60', 'closed', { expires: 365 });
-      $('#cern60').slideUp(300, function() { $('#cern60').remove(); });
     })
 
     $('#messages-container').append(alert);
@@ -197,19 +182,19 @@ var UI = (function () {
         document.onfocusin = document.onfocusout = onchange;
     // All others:
     else
-        window.onpageshow = window.onpagehide 
+        window.onpageshow = window.onpagehide
             = window.onfocus = window.onblur = onchange;
 
     function onchange (evt) {
         var v = 'visible', h = 'hidden',
-            evtMap = { 
-                focus:v, focusin:v, pageshow:v, blur:h, focusout:h, pagehide:h 
+            evtMap = {
+                focus:v, focusin:v, pageshow:v, blur:h, focusout:h, pagehide:h
             };
 
         evt = evt || window.event;
         if (evt.type in evtMap)
             detector.visible = evtMap[evt.type] == 'visible';
-        else        
+        else
             detector.visible = !this[hidden];
     }
 })();
